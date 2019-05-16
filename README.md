@@ -34,12 +34,12 @@ The script accept a single parameter to specify which metrics set to print:
 ```
 
 ```
-  $ python3 metrics.py mem
-  virtual total 12244529152
-  virtual used 5699252224
-  virtual free 965382144
-  virtual shared 581640192
-  swap total 2147479552
-  swap used 0
-  swap free 2147479552
+ $ python3 metrics.py mem
+ virtual total 12244529152
+ virtual used 5699252224
+ virtual free 965382144
+ virtual shared 581640192
+ swap total 2147479552
+ swap used 0
+ swap free 2147479552
 ```
