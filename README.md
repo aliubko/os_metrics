@@ -11,7 +11,7 @@ The script accept a single parameter to specify which metrics set to print:
   
   puthon - version > 3.5
 
-  pip
+  pip3
 
   psutil
   
