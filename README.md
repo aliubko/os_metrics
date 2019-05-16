@@ -10,7 +10,9 @@ The script accept a single parameter to specify which metrics set to print:
   # Requirements
   
   puthon - version > 3.5
+
   pip
+
   psutil
   
   # Installation
