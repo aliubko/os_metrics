@@ -23,5 +23,12 @@ The script accept a single parameter to specify which metrics set to print:
   # Examples
   
   ```
-  python metrics.py cpu
+  $ python metrics.py cpu
+  system.cpu.idle 40240.5
+  system.cpu.user 1363.84
+  system.cpu.guest 0.0
+  system.cpu.iowait 59.61
+  system.cpu.stolen 0.0
+  system.cpu.system 351.53
+
 ```
