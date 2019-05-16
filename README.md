@@ -19,3 +19,9 @@ The script accept a single parameter to specify which metrics set to print:
     pip3 install psutil
     git clone https://github.com/aliubko/os_metrics
     
+
+  # Examples
+  
+  ```
+  python metrics.py cpu
+```
