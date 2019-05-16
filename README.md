@@ -13,5 +13,5 @@ The script accept a single parameter to specify which metrics set to print:
   psutil
   
   # Installation
-    pip install psutil
+    pip3 install psutil
     
